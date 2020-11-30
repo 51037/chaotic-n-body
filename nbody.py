@@ -148,7 +148,9 @@ def run_simulation(count, fig_index, target_frame, write_video, skip, frame_coun
     del ax1
 
 
+run_simulation(count=100, fig_index=0, target_frame=2500, write_video = False, skip=False, frame_count = 450)
+
 #run_simulation(count=100, fig_index=0, target_frame=2500, write_video = True, skip=True, frame_count = 450)
 
-for i in range(5):
-    run_simulation(count=100, fig_index=i, target_frame=2500, write_video = True, skip=True, frame_count = 100)
+#for i in range(5):
+#    run_simulation(count=100, fig_index=i, target_frame=2500, write_video = True, skip=True, frame_count = 100)
