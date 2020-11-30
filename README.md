@@ -29,18 +29,18 @@ Laplace believed that the only way to know, to 100% precision, a future state wa
 The following are video outputs from the program, showing several different initial states and their vastly different outputs.
 
 **Pretty particle simulation videos**
-| ![video0](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-0.webp =400x) | ![video1](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-1.webp =400x)|
+| ![video0](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-0.webp ) | ![video1](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-1.webp )|
 |-------------------------|-------------------------|
-| ![video2](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-2.webp =400x)| ![video3](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-3.webp =400x)|
+| ![video2](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-2.webp )| ![video3](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-animation-3.webp )|
 
 **Demonstration of slight variation causing chaos**
  | Before | After |
 |----- |--------|
-| ![0b](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-0-time-0.png =400x)| ![0a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-0-time-2500.png =400x) |
-| ![1b](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-1-time-0.png =400x)| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-1-time-2500.png =400x)|
-| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-2-time-0.png =400x) | ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-2-time-2500.png =400x) |
-| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-3-time-0.png =400x) | ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-3-time-2500.png =400x) |
-| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-4-time-0.png =400x) | ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-4-time-2500.png =400x) |
+| ![0b](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-0-time-0.png )| ![0a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-0-time-2500.png ) |
+| ![1b](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-1-time-0.png )| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-1-time-2500.png )|
+| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-2-time-0.png ) | ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-2-time-2500.png ) |
+| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-3-time-0.png ) | ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-3-time-2500.png ) |
+| ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-4-time-0.png ) | ![1a](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/plot-4-time-2500.png ) |
 
 # Conclusions
 As intellectuals seeking to further our understanding of the universe and all of its mysteries, we often try to reduce the "unpredictability" of nature. We predict the weather (though only within a couple of days accuracy, if that), but we can never know whether it will be raining in Colorado Springs on July 25th, 2050 at 2:00 pm until that time is very near in the future.
