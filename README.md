@@ -11,10 +11,7 @@ An application of Newton's Universal Law of Gravitation and evaluations of chaot
 The picture above is a depiction of three overlaid outputs from `nbody.py`. Each colored point (red, cyan, purple) depicts point particle with *m* mass, *<x, y>* position, and *<x, y>* velocity.
 On the left is the initial state of the system, and on the right is the system after 2,500 time steps.
 
-In this system, every particle feels the force as defined by Newton's Law of Universal Gravitation (vector unit vector notation) where $\vec r = {<\Delta x, \Delta y>}$ (the distance between two points):
-$$
-F=G(m_1*m_2/|r|^2) * (\vec r/{|r|}^2)
-$$
+In this system, every particle feels the force as defined by Newton's Law of Universal Gravitation (vector unit vector notation) where r_vector = delta_x, delta_y> (the distance between two points): F = G*m_1*m_2/r^2 * r_vector/||r_vector||^2
 
 While this force is applied to every particle in the system, the above image demonstrates that small, seemingly insignificant changes to the initial conditions of the system drastically impact the system in the future.
 
