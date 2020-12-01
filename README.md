@@ -8,12 +8,12 @@ An application of Newton's Universal Law of Gravitation and evaluations of chaot
 
 ## Introduction
 
-The picture above is a depiction of three overlaid outputs from `nbody.py`. Each colored point (red, cyan, purple) depicts point particle with *m* mass, *<x, y>* position, and *<x, y>* velocity.
+The picture above is a depiction of three overlaid outputs from `nbody.py` (the program I developed). Each colored point (red, cyan, purple) depicts point particle with *m* mass, *<x, y>* position, and *<x, y>* velocity.
 On the left is the initial state of the system, and on the right is the system after 2,500 time steps.
 
 In this system, every particle feels the force as defined by Newton's Law of Universal Gravitation (vector unit vector notation) where r_vector = delta_x, delta_y> (the distance between two points): F = G*m_1*m_2/r^2 * r_vector/||r_vector||^2
 
-While this force is applied to every particle in the system, the above image demonstrates that small, seemingly insignificant changes to the initial conditions of the system drastically impact the system in the future.
+While this force is applied to every particle in the system, the above image demonstrates that small, seemingly insignificant changes to the initial conditions of the system drastically impact the system in the future. This system modeled by this program applies to our universe, and there could exist astonomical objects with certain masses in a certain configuration that would replicate the results seen here.
 
 Why does a simulation like this matter? In the words of famous mathematician [Pierre Simon Laplace](https://en.wikipedia.org/wiki/Laplace%27s_demon),
 > We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.
