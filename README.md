@@ -2,6 +2,12 @@
 
 An application of Newton's Universal Law of Gravitation and evaluations of chaotic properties.
 
+A nice, long clip of the simulation in action after some time:
+![Video_should_be_here](https://raw.githubusercontent.com/51037/chaotic-n-body/main/plots/animation/plot-animation-0.webp)
+
+
+
+Overlaid data:
 ![Image should be here](https://raw.githubusercontent.com/51037/chaotic-n-body/main/graphics/overlayed%20data.png)
 
 
